@@ -35,6 +35,7 @@ header h3 {
 header h3 span,
 header h3 a {
     color: #444;
+    text-decoration: none;
 }
 
 .gallery {
